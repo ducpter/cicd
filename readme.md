@@ -55,7 +55,7 @@ jobs:
 
 ### 1.2. Kết quả GitHub Actions
 
-![GitHub Actions](/cicd/pic/1.png)
+![GitHub Actions](pic/1.png)
 
 ---
 
@@ -159,6 +159,6 @@ kubectl apply -f argocd-app.yaml
 
 ### 3.5. Kết quả ArgoCD
 
-![ArgoCD](/cicd/pic/2.png)
+![ArgoCD](pic/2.png)
 
 ---
