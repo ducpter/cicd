@@ -1,4 +1,4 @@
-# Docker Desktop và Kubernetes
+# CICD
 
 ## Yêu cầu
 
@@ -82,7 +82,7 @@ spec:
     spec:
       containers:
         - name: docker-example
-          image: ducp96064/docker-example:latest
+          image: ducp96064/my-image:main
           ports:
             - containerPort: 3000
 ```
